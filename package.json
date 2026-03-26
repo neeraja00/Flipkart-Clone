@@ -52,4 +52,8 @@
     "postcss-flexbugs-fixes": "^4.2.1",
     "tailwindcss": "^2.2.19"
   }
+  "engines": {
+  "node": "22.21.0"
 }
+}
+
